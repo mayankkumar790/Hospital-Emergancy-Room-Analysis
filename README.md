@@ -45,7 +45,6 @@ IF([Patient Age]>10,"10-19","0-9")))))))
 =IF([Patient Waittime]>30,"Delay","Ontime")
 
 ### 📆 Calendar Table Formula
-```excel
 = List.Dates(#date(2023,01,01), 731, #duration(1,0,0,0))
 
 ## 📈 Dashboard Insights
