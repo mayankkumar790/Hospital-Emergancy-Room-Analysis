@@ -48,34 +48,34 @@ IF([Patient Age]>10,"10-19","0-9")))))))
 ```excel
 = List.Dates(#date(2023,01,01), 731, #duration(1,0,0,0))
 
-📈 Dashboard Insights
-Key Visuals:
+## 📈 Dashboard Insights
 
+#### Key Visuals:
 Patient Admission Status – Admitted vs. Not Admitted
 Patient Age Distribution – Age groups 0–79
 Timeliness – % of patients seen within 30 minutes
 Gender Analysis – Male vs. Female patients
 Department Referrals – Top referred departments
 
-KPI Metrics:
+#### KPI Metrics:
 Total Number of Patients
 Daily Average Wait Time
 Daily Patient Satisfaction Score
 
-🧰 Tools & Skills Used:
+## 🧰 Tools & Skills Used:
 Microsoft Excel / Power Query / Power Pivot
 Data Cleaning & Transformation
 Pivot Tables and Dashboards
 DAX Formulas
 Data Visualization
 
-📅 Project Author:
+## 📅 Project Author:
 👨‍💻 Mayank Kumar
 📧 Email: mayankkumar21july@gmail.com
 
-🏁 Conclusion:
+## 🏁 Conclusion:
 The Hospital Emergency Room Analysis Dashboard provides clear insights into patient flow and operational efficiency.
 It can help healthcare administrators identify bottlenecks and improve emergency response performance.
 
-🖼️ Dashboard Preview:
+## 🖼️ Dashboard Preview:
 ![Dashboard Screenshot](<img width="887" height="395" alt="Dashboard" src="https://github.com/user-attachments/assets/8a8afbc1-b113-4cf7-976c-398afd4c3684" />)
