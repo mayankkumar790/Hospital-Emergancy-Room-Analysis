@@ -50,8 +50,8 @@ IF([Patient Age]>10,"10-19","0-9")))))))
 ## 📈 Dashboard Insights
 
 #### Key Visuals:
--Patient Admission Status – Admitted vs. Not Admitted
--Patient Age Distribution – Age groups 0–79
+- Patient Admission Status – Admitted vs. Not Admitted
+- Patient Age Distribution – Age groups 0–79
 -Timeliness – % of patients seen within 30 minutes
 -Gender Analysis – Male vs. Female patients
 -Department Referrals – Top referred departments
