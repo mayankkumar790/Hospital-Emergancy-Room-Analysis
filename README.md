@@ -77,6 +77,5 @@ IF([Patient Age]>10,"10-19","0-9")))))))
 It can help healthcare administrators identify bottlenecks and improve emergency response performance.
 
 ## 🖼️ Dashboard Preview:
-![Dashboard Screenshot](<img width="887" height="395" alt="Dashboard" src="https://github.com/yourusername/hospital-dashboard/blob/main/Dashboard.png
-" />
+![Dashboard Screenshot](<img width="887" height="395" alt="Dashboard" src="https://github.com/user-attachments/assets/13fd481b-41aa-4f97-b5c5-e84855554354" />
 )
