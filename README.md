@@ -77,5 +77,4 @@ IF([Patient Age]>10,"10-19","0-9")))))))
 It can help healthcare administrators identify bottlenecks and improve emergency response performance.
 
 ## 🖼️ Dashboard Preview:
-![Dashboard Screenshot](<img width="887" height="395" alt="Dashboard" src="https://github.com/mayankkumar790/Hospital-Emergancy-Room-Analysis/blob/f8bc35a1ff77b746559285a0d6778c1cbbd97c88/Hospital_Emergency_Room_Analysis/Dashboard.png" />
-)
+![Dashboard Screenshot](https://github.com/mayankkumar790/Hospital-Emergancy-Room-Analysis/blob/f8bc35a1ff77b746559285a0d6778c1cbbd97c88/Hospital_Emergency_Room_Analysis/Dashboard.png)
