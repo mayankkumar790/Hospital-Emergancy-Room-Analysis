@@ -32,7 +32,7 @@ Two datasets were used in this project:
 ---
 
 ## 🧮 DAX & Excel Formulas Used
-👶 Age Group Calculation-
+#### 👶 Age Group Calculation
 =IF([Patient Age]>70,"70-79",
 IF([Patient Age]>60,"60-69",
 IF([Patient Age]>50,"50-59",
@@ -41,7 +41,7 @@ IF([Patient Age]>30,"30-39",
 IF([Patient Age]>20,"20-29",
 IF([Patient Age]>10,"10-19","0-9")))))))
 
-⏱️ Patient Attend Status-
+#### ⏱️ Patient Attend Status
 =IF([Patient Waittime]>30,"Delay","Ontime")
 
 ### 📆 Calendar Table Formula
@@ -50,31 +50,32 @@ IF([Patient Age]>10,"10-19","0-9")))))))
 ## 📈 Dashboard Insights
 
 #### Key Visuals:
-Patient Admission Status – Admitted vs. Not Admitted
-Patient Age Distribution – Age groups 0–79
-Timeliness – % of patients seen within 30 minutes
-Gender Analysis – Male vs. Female patients
-Department Referrals – Top referred departments
+-Patient Admission Status – Admitted vs. Not Admitted
+-Patient Age Distribution – Age groups 0–79
+-Timeliness – % of patients seen within 30 minutes
+-Gender Analysis – Male vs. Female patients
+-Department Referrals – Top referred departments
 
 #### KPI Metrics:
-Total Number of Patients
-Daily Average Wait Time
-Daily Patient Satisfaction Score
+-Total Number of Patients
+-Daily Average Wait Time
+-Daily Patient Satisfaction Score
 
 ## 🧰 Tools & Skills Used:
-Microsoft Excel / Power Query / Power Pivot
-Data Cleaning & Transformation
-Pivot Tables and Dashboards
-DAX Formulas
-Data Visualization
+-Microsoft Excel / Power Query / Power Pivot
+-Data Cleaning & Transformation
+-Pivot Tables and Dashboards
+-DAX Formulas
+-Data Visualization
 
 ## 📅 Project Author:
-👨‍💻 Mayank Kumar
-📧 Email: mayankkumar21july@gmail.com
+-👨‍💻 Mayank Kumar
+-📧 Email: mayankkumar21july@gmail.com
 
 ## 🏁 Conclusion:
-The Hospital Emergency Room Analysis Dashboard provides clear insights into patient flow and operational efficiency.
+-The Hospital Emergency Room Analysis Dashboard provides clear insights into patient flow and operational efficiency.
 It can help healthcare administrators identify bottlenecks and improve emergency response performance.
 
 ## 🖼️ Dashboard Preview:
-![Dashboard Screenshot](<img width="887" height="395" alt="Dashboard" src="https://github.com/user-attachments/assets/8a8afbc1-b113-4cf7-976c-398afd4c3684" />)
+![Dashboard Screenshot](<img width="887" height="395" alt="Dashboard" src="https://github.com/user-attachments/assets/8a8afbc1-b113-4cf7-976c-398afd4c3684" />
+)
