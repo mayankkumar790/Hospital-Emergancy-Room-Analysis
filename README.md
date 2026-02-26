@@ -71,6 +71,9 @@ IF([Patient Age]>10,"10-19","0-9")))))))
 ## 📅 Project Author:
 - 👨‍💻 Mayank Kumar
 - 📧 Email: mayankkumar21july@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mayank-kumar-2003y/)
+- 💻 [GitHub](https://github.com/mayankkumar790)  
+
 
 ## 🏁 Conclusion:
 - The Hospital Emergency Room Analysis Dashboard provides clear insights into patient flow and operational efficiency.
